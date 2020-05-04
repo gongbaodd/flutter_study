@@ -5,5 +5,6 @@ import 'package:hello_flutter/AppCard.dart';
 import './App.dart';
 import './AppFunc.dart' as FuncApp;
 import "./AppState.dart" as StateApp;
+import "./AppFuncState.dart" as StateFuncApp;
 
-void main() => runApp(StateApp.createApp());
+void main() => runApp(StateFuncApp.createApp());
