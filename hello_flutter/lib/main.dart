@@ -4,5 +4,6 @@ import 'package:hello_flutter/AppCanvas.dart';
 import 'package:hello_flutter/AppCard.dart';
 import './App.dart';
 import './AppFunc.dart' as FuncApp;
+import "./AppState.dart" as StateApp;
 
-void main() => runApp(FuncApp.app());
+void main() => runApp(StateApp.createApp());
