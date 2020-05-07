@@ -6,5 +6,6 @@ import './App.dart';
 import './AppFunc.dart' as FuncApp;
 import "./AppState.dart" as StateApp;
 import "./AppFuncState.dart" as StateFuncApp;
+import "./AppRoutes.dart" as RoutesApp;
 
-void main() => runApp(StateFuncApp.createApp());
+void main() => runApp(new RoutesApp.AppRoutes());
