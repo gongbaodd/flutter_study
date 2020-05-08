@@ -9,5 +9,8 @@ import "./AppFuncState.dart" as StateFuncApp;
 import "./AppRoutes.dart" as RoutesApp;
 import "./AppTab.dart" as TabApp;
 import "./AppFuncTab.dart" as FuncTabApp;
+import "./AppDrawer.dart" as DrawerApp;
+import "./AppText.dart" as TextApp;
+import "./AppForm.dart" as FormApp;
 
-void main() => runApp(FuncTabApp.build());
+void main() => runApp(FormApp.build());
