@@ -12,5 +12,6 @@ import "./AppFuncTab.dart" as FuncTabApp;
 import "./AppDrawer.dart" as DrawerApp;
 import "./AppText.dart" as TextApp;
 import "./AppForm.dart" as FormApp;
+import "./AppFade.dart" as FadeApp;
 
-void main() => runApp(FormApp.build());
+void main() => runApp(FadeApp.build());
