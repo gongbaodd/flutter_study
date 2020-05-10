@@ -1,4 +1,4 @@
-# wear_flutter
+# wear_example
 
 A new Flutter project.
 

@@ -1,4 +1,4 @@
-package com.example.wear_flutter
+package com.example.wear_example
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
